@@ -1,3 +1,5 @@
 body {background-color: black;
-color:azure
+color:azure;
+margin: 0px;
 }
+header {border: solid 2x rgb(10,20,30)}
